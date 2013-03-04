@@ -1,9 +1,14 @@
 WaldorfRocketEditor
 ===================
 
-Waldorf Rocket Editor
+Waldorf Rocket Synth Editor
 
-Max4live version 0.1
+More info about Waldorf Rocket:
+http://www.waldorf-music.info/en/rocket-sythesizer.html
 
-Info will follow shortly
+
+Currently the editor requires max4live more info and other versions soon to follow.
+
+note:
+Waldorf Rocket is probably a trademark of Waldorf music, I do not represent nor work for Waldorf music.
 
